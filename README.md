@@ -22,7 +22,7 @@ This repository contains the evaluation deliverables and documentation for the *
 |---|---|---|
 | Internship Certificate | [View Certificate](./Internship_Certificate_Nayandeep_Prakash.png) | Official Completion Certificate issued by itsfolio.tech |
 | Internship Report | [View Report](./Internship_Report_Nayandeep_Prakash.pdf) | Detailed academic evaluation report |
-| Internship Presentation | [View PPT](.Internship_Report_PPT_Nayandeep_Prakash.pdf) | Comprehensive evaluation presentation deck |
+| Internship Presentation | [View PPT](./Internship_Report_PPT_Nayandeep_Prakash.pdf) | Comprehensive evaluation presentation deck |
 
 ---
 
